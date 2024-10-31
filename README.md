@@ -2,7 +2,7 @@
 CPUの温度を取得し10秒ごとに埋め込みを編集しサーバー状態をチェックできます
 # 注意ドキュメントスキッパーは許しませんよくドキュメントを読んでください!
 ## もし温度が取得できない等のエラーが出た場合
-####　If an error occurs such as not being able to obtain the temperature
+### If an error occurs such as not being able to obtain the temperature
 ```
 sudo apt update
 sudo apt install lm-sensors
