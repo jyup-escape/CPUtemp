@@ -11,3 +11,6 @@ sensors
 ```
 以下のコマンドを入力してください上から3つ目のコマンドは全てyで大丈夫です
 Windows勢は知りませんググってください
+# コンタクト先
+https://discord.gg/hX2XnGEsKT
+DiscordID .jyup.
